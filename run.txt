@@ -1,0 +1,3 @@
+C:\Program Files\MongoDB\Server\4.0\bin  mongo
+ng serve
+node server.js
